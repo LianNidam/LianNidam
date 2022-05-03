@@ -13,10 +13,15 @@
 ## Languages
 
 ![Skills](https://cdn-icons-png.flaticon.com/512/358/358879.png)
+
 ![Skills](https://cdn-icons-png.flaticon.com/512/6132/6132222.png)
+
 ![Skills](https://cdn-icons-png.flaticon.com/512/3600/3600912.png)
+
 ![Skills](https://cdn-icons-png.flaticon.com/512/888/888859.png)
+
 ![Skills](https://cdn-icons-png.flaticon.com/512/1199/1199124.png)
+
 ![Skills](https://cdn-icons-png.flaticon.com/512/5968/5968242.png)
 
 ![Skills](https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png)
