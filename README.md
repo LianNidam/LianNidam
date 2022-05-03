@@ -12,11 +12,7 @@
 
 ## Languages
 
-![Skills](https://cdn-icons-png.flaticon.com/512/358/358879.png)
-
-![Skills](https://cdn-icons-png.flaticon.com/512/6132/6132222.png)
-
-![Skills](https://cdn-icons-png.flaticon.com/512/3600/3600912.png)
+![Skills](https://cdn-icons-png.flaticon.com/512/358/358879.png)![Skills](https://cdn-icons-png.flaticon.com/512/6132/6132222.png)![Skills](https://cdn-icons-png.flaticon.com/512/3600/3600912.png)
 
 ![Skills](https://cdn-icons-png.flaticon.com/512/888/888859.png)
 
