@@ -20,7 +20,7 @@
 
 ![Skills](https://cdn-icons-png.flaticon.com/512/5968/5968242.png)
 
-![Skills](https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png)
+![Skills](https://cdn-icons-png.flaticon.com/512/919/919854.png)
 
 ![Skills](https://res.cloudinary.com/practicaldev/image/fetch/s--KeoWS_Ah--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://cdn-images-1.medium.com/max/640/1%2ASL4sWHdjGR3vo0x5ta3xfw.jpeg)
 
