@@ -1,9 +1,13 @@
 ### Hi, I'm Lian! 👋🏻
 
 💻📚 3rd year Computer Science student.
+
 ✈ World traveler.
+
 😄 Loves to exercise and bake.
+
 🦾Creative with good interpersonal skills and leadership skills, Self-motivated with the ability to motivate people.
+
 👨‍💻Passionate about learning and developing.
 
 ## Languages
