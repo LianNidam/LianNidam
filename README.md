@@ -12,13 +12,12 @@
 
 ## Languages
 
-![Skills](https://ih1.redbubble.net/image.1513935055.2314/st,small,507x507-pad,600x600,f8f8f8.jpg)
-![Skills](https://camo.githubusercontent.com/89f156f686927710b07702353a333436140ec83bd18cb8d3a851578045551f35/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3132382f363133322f363133323232322e706e67)
-![Skills](https://camo.githubusercontent.com/021d8f04162100b1a42194c0b7a9de0ec99c6b484a7ad9711dc9b3f563744f06/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3132382f333630302f333630303931322e706e67)
-![Skills](https://camo.githubusercontent.com/93628baa0ee70f6279f1b9d89cb86c3d4be707798b318768e1b0333f3b1749c3/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3132382f353936382f353936383236372e706e67)
-![Skills](https://camo.githubusercontent.com/e17f27ccb104b1ee595bb3c320eaf9ab8d0b1767969bc204fb7813db450ebd8f/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f707974686f6e2d2d76322e706e67)
-
-![Skills](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/250px-CSS3_logo_and_wordmark.svg.png)
+![Skills](https://cdn-icons-png.flaticon.com/512/358/358879.png)
+![Skills](https://cdn-icons-png.flaticon.com/512/6132/6132222.png)
+![Skills](https://cdn-icons-png.flaticon.com/512/3600/3600912.png)
+![Skills](https://cdn-icons-png.flaticon.com/512/888/888859.png)
+![Skills](https://cdn-icons-png.flaticon.com/512/1199/1199124.png)
+![Skills](https://cdn-icons-png.flaticon.com/512/5968/5968242.png)
 
 ![Skills](https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png)
 
